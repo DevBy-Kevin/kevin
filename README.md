@@ -19,6 +19,5 @@ Sur ce compte, vous trouverez des projets qui reflètent mes apprentissages, mes
 Je suis toujours ouvert à des opportunités d’apprentissage collaboratif ! Si vous souhaitez travailler sur un projet ensemble, n’hésitez pas à me contacter.  
 
 ## Me contacter  
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)  
-- **LinkedIn** : [Votre profil LinkedIn](https://linkedin.com/in/votreprofil)  
-- **Twitter** : [Votre Twitter](https://twitter.com/votretwitter)
+- **Email** : [kowouvikossi3335@gmail.com](mailto:kowouvikossi3335@gmail.com)  
+- **LinkedIn** : [Mon profil LinkedIn](https://linkedin.com/in/monprofil)  
