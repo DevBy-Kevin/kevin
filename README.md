@@ -1,7 +1,3 @@
-D'accord, voici la première version que j'avais proposée pour votre README GitHub :
-
----
-
 # Bienvenue sur mon GitHub ! 👋
 
 ## Qui suis-je ?  
