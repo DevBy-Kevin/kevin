@@ -1,7 +1,7 @@
 # Bienvenue sur mon GitHub ! 👋
 
 ## Qui suis-je ?  
-Je suis un étudiant passionné en mathématiques et en informatique, actuellement au sein de **SAYANA**. Mon objectif est de renforcer mes compétences techniques et d'explorer de nouveaux domaines comme le développement logiciel, l'intelligence artificielle, et la finance.
+Je suis un étudiant passionné en mathématiques et en informatique, actuellement au sein de **SAYANA**. Mon objectif est de renforcer mes compétences techniques et d'explorer de nouveaux domaines.
 
 ## Ce que je fais ici  
 Sur ce compte, vous trouverez des projets qui reflètent mes apprentissages, mes expérimentations, et mes collaborations. Ils couvrent notamment :  
