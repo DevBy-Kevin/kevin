@@ -24,8 +24,8 @@
 
 ## 📫 Me contacter
 - ✉️ Email : *kowouvikossi3335@gmail.com*  
-- 🌐 Portfolio / Site : *à ajouter*  
-- 💼 LinkedIn : *à ajouter*  
+- 🌐 Portfolio / Site : *En attent...*  
+- 💼 LinkedIn : *En attent...*  
 
 ---
 
