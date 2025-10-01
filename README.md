@@ -1,23 +1,32 @@
-# Bienvenue sur mon GitHub ! 👋
+# 👋 Bienvenue sur mon GitHub
 
-## Qui suis-je ?  
-Je suis un étudiant passionné en mathématiques et en informatique, actuellement au sein de **SAYANA**. Mon objectif est de renforcer mes compétences techniques et d'explorer de nouveaux domaines.
+## Moi, c’est Kévin
 
-## Ce que je fais ici  
-Sur ce compte, vous trouverez des projets qui reflètent mes apprentissages, mes expérimentations, et mes collaborations. Ils couvrent notamment :  
-- 🔢 **Mathématiques appliquées** : Algorithmes, optimisation, théorie des nombres.  
-- 💻 **Développement web** : Projets en HTML, CSS, JavaScript.   
-- 🚀 **En exploration** : Python, IA et d'autres technologies.
+💻 Développeur web passionné et autodidacte, j’explore le monde du numérique avec la volonté de transformer mes idées en projets concrets.  
+🌍 Je vois le développement web comme une porte d’entrée vers l’innovation et comme un levier pour lancer mes propres initiatives.  
+🎯 Mon objectif à long terme : évoluer vers l’**intelligence artificielle** après avoir consolidé mes bases en développement web.
 
-## Mes objectifs  
-- 🚀 Acquérir des compétences avancées en programmation.  
-- 🤝 Contribuer à des projets open-source.  
-- 🎯 Développer des outils pratiques et innovants.  
-- 📚 Apprendre continuellement et partager mes connaissances.  
+---
 
-## Collaboration  
-Je suis toujours ouvert à des opportunités d’apprentissage collaboratif ! Si vous souhaitez travailler sur un projet ensemble, n’hésitez pas à me contacter.  
+## 🚀 Ce que je fais actuellement
+- Développement de **sites web** avec **HTML, CSS, JavaScript**  
+- Expérimentation avec des frameworks modernes et des outils de déploiement  
+- Création de petits projets personnels pour apprendre et partager  
 
-## Me contacter  
-- **Email** : [kowouvikossi3335@gmail.com](mailto:kowouvikossi3335@gmail.com)  
-- **LinkedIn** : [Mon profil LinkedIn](https://linkedin.com/in/monprofil)  
+---
+
+## 📚 Mes compétences
+- **Langages :** HTML, CSS, JavaScript  
+- **En apprentissage :** React, Node.js, GitHub Actions  
+- **Outils :** Git/GitHub, gestion de versions, hébergement sur plateformes gratuites (GitHub Pages, Netlify, Vercel)
+
+---
+
+## 📫 Me contacter
+- ✉️ Email : *kowouvikossi3335@gmail.com*  
+- 🌐 Portfolio / Site : *à ajouter*  
+- 💼 LinkedIn : *à ajouter*  
+
+---
+
+✨ Merci d’avoir visité mon GitHub ! N’hésitez pas à explorer mes projets et à me laisser vos retours.
